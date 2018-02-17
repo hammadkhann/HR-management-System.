@@ -1,0 +1,5 @@
+C:\HR\HR\HrObjects\bin\Debug\HrObjects.dll
+C:\HR\HR\HrObjects\bin\Debug\HrObjects.pdb
+C:\HR\HR\HrObjects\obj\Debug\HrObjects.csprojResolveAssemblyReference.cache
+C:\HR\HR\HrObjects\obj\Debug\HrObjects.dll
+C:\HR\HR\HrObjects\obj\Debug\HrObjects.pdb

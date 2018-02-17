@@ -1,0 +1,32 @@
+C:\HR\HR\HR\bin\Debug\HR.exe.config
+C:\HR\HR\HR\obj\Debug\HR.csprojResolveAssemblyReference.cache
+C:\HR\HR\HR\obj\Debug\HR.JobForm.resources
+C:\HR\HR\HR\obj\Debug\HR.MDIParent1.resources
+C:\HR\HR\HR\obj\Debug\HR.Properties.Resources.resources
+C:\HR\HR\HR\obj\Debug\HR.csproj.GenerateResource.Cache
+C:\HR\HR\HR\bin\Debug\HR.exe
+C:\HR\HR\HR\bin\Debug\HR.pdb
+C:\HR\HR\HR\bin\Debug\DataAccess.dll
+C:\HR\HR\HR\bin\Debug\HrObjects.dll
+C:\HR\HR\HR\bin\Debug\DataAccess.pdb
+C:\HR\HR\HR\bin\Debug\HrObjects.pdb
+C:\HR\HR\HR\obj\Debug\HR.exe
+C:\HR\HR\HR\obj\Debug\HR.pdb
+C:\HR\HR\HR\obj\Debug\HR.ScheuleInterview.resources
+C:\HR\HR\HR\obj\Debug\HR.InterviewStatus.resources
+E:\Sixth semester\HR\HR\bin\Debug\HR.exe.config
+E:\Sixth semester\HR\HR\obj\Debug\HR.exe
+E:\Sixth semester\HR\HR\obj\Debug\HR.pdb
+E:\Sixth semester\HR\HR\bin\Debug\HR.exe
+E:\Sixth semester\HR\HR\bin\Debug\HR.pdb
+E:\Sixth semester\HR\HR\bin\Debug\DataAccess.dll
+E:\Sixth semester\HR\HR\bin\Debug\HrObjects.dll
+E:\Sixth semester\HR\HR\bin\Debug\DataAccess.pdb
+E:\Sixth semester\HR\HR\bin\Debug\HrObjects.pdb
+E:\Sixth semester\HR\HR\obj\Debug\HR.csprojResolveAssemblyReference.cache
+E:\Sixth semester\HR\HR\obj\Debug\HR.InterviewStatus.resources
+E:\Sixth semester\HR\HR\obj\Debug\HR.JobForm.resources
+E:\Sixth semester\HR\HR\obj\Debug\HR.MDIParent1.resources
+E:\Sixth semester\HR\HR\obj\Debug\HR.Properties.Resources.resources
+E:\Sixth semester\HR\HR\obj\Debug\HR.ScheuleInterview.resources
+E:\Sixth semester\HR\HR\obj\Debug\HR.csproj.GenerateResource.Cache

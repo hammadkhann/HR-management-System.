@@ -1,0 +1,7 @@
+C:\HR\HR\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\HR\HR\DataAccess\bin\Debug\DataAccess.dll
+C:\HR\HR\DataAccess\bin\Debug\DataAccess.pdb
+C:\HR\HR\DataAccess\bin\Debug\HrObjects.dll
+C:\HR\HR\DataAccess\bin\Debug\HrObjects.pdb
+C:\HR\HR\DataAccess\obj\Debug\DataAccess.dll
+C:\HR\HR\DataAccess\obj\Debug\DataAccess.pdb
